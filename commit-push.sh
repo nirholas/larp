@@ -9,7 +9,7 @@ set -euo pipefail
 #   "username:shortcut"   → explicit shortcut override
 #
 ACCOUNTS=(
-  "nirhoias:s"
+  "speraxos:s"
   "nirholas:n"
   # ── add more accounts below ──
   # "myaltaccount"
@@ -171,7 +171,6 @@ case "$INPUT" in
       done
       echo "   Or use @username for any GitHub user"
       exit 1
-      ;;
     fi
     GIT_EMAIL=$(resolve_email "$GIT_NAME")
     ;;
