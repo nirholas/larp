@@ -1,0 +1,1728 @@
+[
+  {
+    "login": "adderall-prozac",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39258550?v=4",
+    "html_url": "https://github.com/adderall-prozac",
+    "type": "User",
+    "total_contributions": 635,
+    "repos": [
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 634
+      },
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "2pd",
+    "avatar_url": "https://avatars.githubusercontent.com/u/365354?v=4",
+    "html_url": "https://github.com/2pd",
+    "type": "User",
+    "total_contributions": 465,
+    "repos": [
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 125
+      },
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 58
+      },
+      {
+        "repo": "binance/binance-websocket-examples",
+        "contributions": 39
+      },
+      {
+        "repo": "binance/binance-signature-examples",
+        "contributions": 34
+      },
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 28
+      },
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 22
+      },
+      {
+        "repo": "binance/binance-connector-php",
+        "contributions": 21
+      },
+      {
+        "repo": "binance/binance-connector-ruby",
+        "contributions": 21
+      },
+      {
+        "repo": "binance/binance-connector-js",
+        "contributions": 17
+      },
+      {
+        "repo": "binance/asymmetric-key-generator",
+        "contributions": 14
+      },
+      {
+        "repo": "binance/binance-api-swagger",
+        "contributions": 9
+      },
+      {
+        "repo": "binance/binance-cli",
+        "contributions": 8
+      },
+      {
+        "repo": "binance/binance-futures-connector-python",
+        "contributions": 8
+      },
+      {
+        "repo": "binance/binance-connector-dotnet",
+        "contributions": 7
+      },
+      {
+        "repo": "binance/binance-pay-signature-examples",
+        "contributions": 7
+      },
+      {
+        "repo": "binance/binance-connector-typescript",
+        "contributions": 6
+      },
+      {
+        "repo": "binance/binance-toolbox-php",
+        "contributions": 6
+      },
+      {
+        "repo": "binance/binance-toolbox-nodejs",
+        "contributions": 5
+      },
+      {
+        "repo": "binance/binance-toolbox-python",
+        "contributions": 5
+      },
+      {
+        "repo": "binance/ai-trading-prototype-backtester",
+        "contributions": 4
+      },
+      {
+        "repo": "binance/binance-pay-connector-python",
+        "contributions": 4
+      },
+      {
+        "repo": "binance/binance-pay-postman-collection",
+        "contributions": 3
+      },
+      {
+        "repo": "binance/binance-toolbox-ruby",
+        "contributions": 3
+      },
+      {
+        "repo": "binance/binance-connector-java",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-futures-connector-java",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-futures-connector-node",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/websocket-demo",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-connector-go",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-connector-rust",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-sbe-java-sample-app",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "alplabin",
+    "avatar_url": "https://avatars.githubusercontent.com/u/122352306?v=4",
+    "html_url": "https://github.com/alplabin",
+    "type": "User",
+    "total_contributions": 393,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 88
+      },
+      {
+        "repo": "binance/binance-connector-go",
+        "contributions": 57
+      },
+      {
+        "repo": "binance/binance-connector-typescript",
+        "contributions": 47
+      },
+      {
+        "repo": "binance/binance-connector-php",
+        "contributions": 15
+      },
+      {
+        "repo": "binance/binance-connector-ruby",
+        "contributions": 15
+      },
+      {
+        "repo": "binance/binance-connector-rust",
+        "contributions": 15
+      },
+      {
+        "repo": "binance/binance-sbe-cpp-sample-app",
+        "contributions": 15
+      },
+      {
+        "repo": "binance/binance-futures-connector-node",
+        "contributions": 14
+      },
+      {
+        "repo": "binance/binance-connector-java",
+        "contributions": 13
+      },
+      {
+        "repo": "binance/binance-connector-js",
+        "contributions": 13
+      },
+      {
+        "repo": "binance/binance-toolbox-typescript",
+        "contributions": 13
+      },
+      {
+        "repo": "binance/binance-sbe-rust-sample-app",
+        "contributions": 11
+      },
+      {
+        "repo": "binance/binance-cli",
+        "contributions": 9
+      },
+      {
+        "repo": "binance/binance-fix-connector-python",
+        "contributions": 9
+      },
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 8
+      },
+      {
+        "repo": "binance/binance-api-swagger",
+        "contributions": 7
+      },
+      {
+        "repo": "binance/asymmetric-key-generator",
+        "contributions": 6
+      },
+      {
+        "repo": "binance/binance-futures-connector-python",
+        "contributions": 6
+      },
+      {
+        "repo": "binance/binance-pay-signature-examples",
+        "contributions": 6
+      },
+      {
+        "repo": "binance/binance-toolbox-nodejs",
+        "contributions": 6
+      },
+      {
+        "repo": "binance/ai-trading-prototype-backtester",
+        "contributions": 4
+      },
+      {
+        "repo": "binance/binance-connector-dotnet",
+        "contributions": 4
+      },
+      {
+        "repo": "binance/binance-sbe-java-sample-app",
+        "contributions": 4
+      },
+      {
+        "repo": "binance/binance-futures-connector-java",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-toolbox-python",
+        "contributions": 2
+      }
+    ]
+  },
+  {
+    "login": "dimitrisn442",
+    "avatar_url": "https://avatars.githubusercontent.com/u/191377322?v=4",
+    "html_url": "https://github.com/dimitrisn442",
+    "type": "User",
+    "total_contributions": 349,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-js",
+        "contributions": 277
+      },
+      {
+        "repo": "binance/binance-connector-rust",
+        "contributions": 30
+      },
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 21
+      },
+      {
+        "repo": "binance/crypto-trade-analyzer",
+        "contributions": 7
+      },
+      {
+        "repo": "binance/binance-connector-ruby",
+        "contributions": 4
+      },
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 3
+      },
+      {
+        "repo": "binance/binance-connector-java",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-connector-typescript",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-futures-connector-node",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-toolbox-nodejs",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "ishuen",
+    "avatar_url": "https://avatars.githubusercontent.com/u/12228644?v=4",
+    "html_url": "https://github.com/ishuen",
+    "type": "User",
+    "total_contributions": 92,
+    "repos": [
+      {
+        "repo": "binance/websocket-demo",
+        "contributions": 64
+      },
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 11
+      },
+      {
+        "repo": "binance/binance-connector-js",
+        "contributions": 7
+      },
+      {
+        "repo": "binance/binance-websocket-examples",
+        "contributions": 5
+      },
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 3
+      },
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-signature-examples",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "aisling-2",
+    "avatar_url": "https://avatars.githubusercontent.com/u/112478306?v=4",
+    "html_url": "https://github.com/aisling-2",
+    "type": "User",
+    "total_contributions": 85,
+    "repos": [
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 21
+      },
+      {
+        "repo": "binance/binance-connector-java",
+        "contributions": 13
+      },
+      {
+        "repo": "binance/binance-sbe-java-sample-app",
+        "contributions": 8
+      },
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 6
+      },
+      {
+        "repo": "binance/binance-futures-connector-java",
+        "contributions": 6
+      },
+      {
+        "repo": "binance/binance-connector-dotnet",
+        "contributions": 5
+      },
+      {
+        "repo": "binance/binance-signature-examples",
+        "contributions": 5
+      },
+      {
+        "repo": "binance/binance-connector-rust",
+        "contributions": 4
+      },
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 4
+      },
+      {
+        "repo": "binance/binance-toolbox-java",
+        "contributions": 4
+      },
+      {
+        "repo": "binance/binance-java-logback",
+        "contributions": 3
+      },
+      {
+        "repo": "binance/ai-trading-prototype-backtester",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-connector-js",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/ai-trading-prototype",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-api-swagger",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "theo-s68",
+    "avatar_url": "https://avatars.githubusercontent.com/u/194042188?v=4",
+    "html_url": "https://github.com/theo-s68",
+    "type": "User",
+    "total_contributions": 83,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-java",
+        "contributions": 55
+      },
+      {
+        "repo": "binance/asymmetric-key-generator",
+        "contributions": 18
+      },
+      {
+        "repo": "binance/binance-connector-php",
+        "contributions": 9
+      },
+      {
+        "repo": "binance/binance-futures-connector-java",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "aisling11",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19312514?v=4",
+    "html_url": "https://github.com/aisling11",
+    "type": "User",
+    "total_contributions": 74,
+    "repos": [
+      {
+        "repo": "binance/binance-toolbox-python",
+        "contributions": 25
+      },
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 17
+      },
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 11
+      },
+      {
+        "repo": "binance/binance-api-swagger",
+        "contributions": 10
+      },
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 6
+      },
+      {
+        "repo": "binance/binance-connector-js",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/websocket-demo",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "tantialex",
+    "avatar_url": "https://avatars.githubusercontent.com/u/17701918?v=4",
+    "html_url": "https://github.com/tantialex",
+    "type": "User",
+    "total_contributions": 70,
+    "repos": [
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 28
+      },
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 14
+      },
+      {
+        "repo": "binance/binance-connector-dotnet",
+        "contributions": 12
+      },
+      {
+        "repo": "binance/binance-connector-js",
+        "contributions": 5
+      },
+      {
+        "repo": "binance/binance-api-swagger",
+        "contributions": 3
+      },
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 3
+      },
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-connector-php",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-signature-examples",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/websocket-demo",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "bnbot",
+    "avatar_url": "https://avatars.githubusercontent.com/u/74913490?v=4",
+    "html_url": "https://github.com/bnbot",
+    "type": "User",
+    "total_contributions": 68,
+    "repos": [
+      {
+        "repo": "binance/binance-mp-demo",
+        "contributions": 67
+      },
+      {
+        "repo": "binance/desktop",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "chairz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/31032561?v=4",
+    "html_url": "https://github.com/chairz",
+    "type": "User",
+    "total_contributions": 52,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-java",
+        "contributions": 21
+      },
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 11
+      },
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 7
+      },
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 5
+      },
+      {
+        "repo": "binance/binance-signature-examples",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-toolbox-java",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-api-swagger",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-pay-signature-examples",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-toolbox-python",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "Kuchenxyz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/108453648?v=4",
+    "html_url": "https://github.com/Kuchenxyz",
+    "type": "User",
+    "total_contributions": 50,
+    "repos": [
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 50
+      }
+    ]
+  },
+  {
+    "login": "jonte-z",
+    "avatar_url": "https://avatars.githubusercontent.com/u/114036008?v=4",
+    "html_url": "https://github.com/jonte-z",
+    "type": "User",
+    "total_contributions": 40,
+    "repos": [
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 11
+      },
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 9
+      },
+      {
+        "repo": "binance/binance-connector-go",
+        "contributions": 6
+      },
+      {
+        "repo": "binance/binance-api-swagger",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-futures-connector-java",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-futures-connector-python",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-toolbox-go",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/ai-trading-prototype-backtester",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/ai-trading-prototype-headlines",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-futures-connector-node",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-futures-java-toolbox",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-signature-examples",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/zkmerkle-proof-of-solvency",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "lightning-li",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7557388?v=4",
+    "html_url": "https://github.com/lightning-li",
+    "type": "User",
+    "total_contributions": 23,
+    "repos": [
+      {
+        "repo": "binance/zkmerkle-proof-of-solvency",
+        "contributions": 23
+      }
+    ]
+  },
+  {
+    "login": "andrea-c-binance",
+    "avatar_url": "https://avatars.githubusercontent.com/u/95664024?v=4",
+    "html_url": "https://github.com/andrea-c-binance",
+    "type": "User",
+    "total_contributions": 18,
+    "repos": [
+      {
+        "repo": "binance/binance-futures-connector-python",
+        "contributions": 18
+      }
+    ]
+  },
+  {
+    "login": "chairz-2",
+    "avatar_url": "https://avatars.githubusercontent.com/u/106545616?v=4",
+    "html_url": "https://github.com/chairz-2",
+    "type": "User",
+    "total_contributions": 13,
+    "repos": [
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 3
+      },
+      {
+        "repo": "binance/binance-futures-connector-python",
+        "contributions": 3
+      },
+      {
+        "repo": "binance/binance-api-swagger",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-connector-java",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "tantialex-b",
+    "avatar_url": "https://avatars.githubusercontent.com/u/106532759?v=4",
+    "html_url": "https://github.com/tantialex-b",
+    "type": "User",
+    "total_contributions": 12,
+    "repos": [
+      {
+        "repo": "binance/asymmetric-key-generator",
+        "contributions": 4
+      },
+      {
+        "repo": "binance/binance-connector-js",
+        "contributions": 3
+      },
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 2
+      },
+      {
+        "repo": "binance/binance-futures-connector-java",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-futures-connector-node",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "darienhuang",
+    "avatar_url": "https://avatars.githubusercontent.com/u/91532715?v=4",
+    "html_url": "https://github.com/darienhuang",
+    "type": "User",
+    "total_contributions": 11,
+    "repos": [
+      {
+        "repo": "binance/binance-futures-connector-python",
+        "contributions": 8
+      },
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 3
+      }
+    ]
+  },
+  {
+    "login": "selviler",
+    "avatar_url": "https://avatars.githubusercontent.com/u/56368718?v=4",
+    "html_url": "https://github.com/selviler",
+    "type": "User",
+    "total_contributions": 11,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-php",
+        "contributions": 11
+      }
+    ]
+  },
+  {
+    "login": "dependabot[bot]",
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "html_url": "https://github.com/apps/dependabot",
+    "type": "Bot",
+    "total_contributions": 5,
+    "repos": [
+      {
+        "repo": "binance/binance-websocket-examples",
+        "contributions": 4
+      },
+      {
+        "repo": "binance/zkmerkle-proof-of-solvency",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "mangelvil",
+    "avatar_url": "https://avatars.githubusercontent.com/u/25538354?v=4",
+    "html_url": "https://github.com/mangelvil",
+    "type": "User",
+    "total_contributions": 5,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-ruby",
+        "contributions": 5
+      }
+    ]
+  },
+  {
+    "login": "Ninj0r",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7782576?v=4",
+    "html_url": "https://github.com/Ninj0r",
+    "type": "User",
+    "total_contributions": 4,
+    "repos": [
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 4
+      }
+    ]
+  },
+  {
+    "login": "tczpl",
+    "avatar_url": "https://avatars.githubusercontent.com/u/14964527?v=4",
+    "html_url": "https://github.com/tczpl",
+    "type": "User",
+    "total_contributions": 4,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-go",
+        "contributions": 4
+      }
+    ]
+  },
+  {
+    "login": "Saba-Sabato",
+    "avatar_url": "https://avatars.githubusercontent.com/u/20134422?v=4",
+    "html_url": "https://github.com/Saba-Sabato",
+    "type": "User",
+    "total_contributions": 3,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-typescript",
+        "contributions": 3
+      }
+    ]
+  },
+  {
+    "login": "elidioxg",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7961081?v=4",
+    "html_url": "https://github.com/elidioxg",
+    "type": "User",
+    "total_contributions": 3,
+    "repos": [
+      {
+        "repo": "binance/binance-futures-connector-python",
+        "contributions": 3
+      }
+    ]
+  },
+  {
+    "login": "namig",
+    "avatar_url": "https://avatars.githubusercontent.com/u/11363626?v=4",
+    "html_url": "https://github.com/namig",
+    "type": "User",
+    "total_contributions": 3,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-typescript",
+        "contributions": 3
+      }
+    ]
+  },
+  {
+    "login": "petacz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4623052?v=4",
+    "html_url": "https://github.com/petacz",
+    "type": "User",
+    "total_contributions": 3,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 3
+      }
+    ]
+  },
+  {
+    "login": "byildiz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/139904?v=4",
+    "html_url": "https://github.com/byildiz",
+    "type": "User",
+    "total_contributions": 2,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 2
+      }
+    ]
+  },
+  {
+    "login": "fanazhe",
+    "avatar_url": "https://avatars.githubusercontent.com/u/928125?v=4",
+    "html_url": "https://github.com/fanazhe",
+    "type": "User",
+    "total_contributions": 2,
+    "repos": [
+      {
+        "repo": "binance/binance-futures-connector-node",
+        "contributions": 2
+      }
+    ]
+  },
+  {
+    "login": "jclmnop",
+    "avatar_url": "https://avatars.githubusercontent.com/u/46844114?v=4",
+    "html_url": "https://github.com/jclmnop",
+    "type": "User",
+    "total_contributions": 2,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-rust",
+        "contributions": 2
+      }
+    ]
+  },
+  {
+    "login": "lamengao",
+    "avatar_url": "https://avatars.githubusercontent.com/u/633588?v=4",
+    "html_url": "https://github.com/lamengao",
+    "type": "User",
+    "total_contributions": 2,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-go",
+        "contributions": 2
+      }
+    ]
+  },
+  {
+    "login": "learnerLj",
+    "avatar_url": "https://avatars.githubusercontent.com/u/72367122?v=4",
+    "html_url": "https://github.com/learnerLj",
+    "type": "User",
+    "total_contributions": 2,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-rust",
+        "contributions": 2
+      }
+    ]
+  },
+  {
+    "login": "phroca",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19617350?v=4",
+    "html_url": "https://github.com/phroca",
+    "type": "User",
+    "total_contributions": 2,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-js",
+        "contributions": 2
+      }
+    ]
+  },
+  {
+    "login": "raeisimv",
+    "avatar_url": "https://avatars.githubusercontent.com/u/10572777?v=4",
+    "html_url": "https://github.com/raeisimv",
+    "type": "User",
+    "total_contributions": 2,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-rust",
+        "contributions": 2
+      }
+    ]
+  },
+  {
+    "login": "urbanogt",
+    "avatar_url": "https://avatars.githubusercontent.com/u/117719984?v=4",
+    "html_url": "https://github.com/urbanogt",
+    "type": "User",
+    "total_contributions": 2,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 1
+      },
+      {
+        "repo": "binance/binance-futures-connector-python",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "vgrpc",
+    "avatar_url": "https://avatars.githubusercontent.com/u/128484151?v=4",
+    "html_url": "https://github.com/vgrpc",
+    "type": "User",
+    "total_contributions": 2,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-java",
+        "contributions": 2
+      }
+    ]
+  },
+  {
+    "login": "2channelkrt",
+    "avatar_url": "https://avatars.githubusercontent.com/u/38805468?v=4",
+    "html_url": "https://github.com/2channelkrt",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "AlfonsoAgAr",
+    "avatar_url": "https://avatars.githubusercontent.com/u/50928791?v=4",
+    "html_url": "https://github.com/AlfonsoAgAr",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-futures-connector-python",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "ArturoGamRod",
+    "avatar_url": "https://avatars.githubusercontent.com/u/9491277?v=4",
+    "html_url": "https://github.com/ArturoGamRod",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "BoogalooLi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/25627435?v=4",
+    "html_url": "https://github.com/BoogalooLi",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "Borneo555",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19764254?v=4",
+    "html_url": "https://github.com/Borneo555",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "CayenneLow",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39748879?v=4",
+    "html_url": "https://github.com/CayenneLow",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "Danswar",
+    "avatar_url": "https://avatars.githubusercontent.com/u/48102227?v=4",
+    "html_url": "https://github.com/Danswar",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-js",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "DonVito1982",
+    "avatar_url": "https://avatars.githubusercontent.com/u/13155694?v=4",
+    "html_url": "https://github.com/DonVito1982",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "EliaOnceAgain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/35046248?v=4",
+    "html_url": "https://github.com/EliaOnceAgain",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "IgorShadurin",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1595061?v=4",
+    "html_url": "https://github.com/IgorShadurin",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "JmPotato",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1446531?v=4",
+    "html_url": "https://github.com/JmPotato",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-go",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "Master0fMagic",
+    "avatar_url": "https://avatars.githubusercontent.com/u/61471303?v=4",
+    "html_url": "https://github.com/Master0fMagic",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-go",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "NickLinVol",
+    "avatar_url": "https://avatars.githubusercontent.com/u/92569681?v=4",
+    "html_url": "https://github.com/NickLinVol",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "SoftwareAndOutsourcing",
+    "avatar_url": "https://avatars.githubusercontent.com/u/5988222?v=4",
+    "html_url": "https://github.com/SoftwareAndOutsourcing",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-typescript",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "ZhouYuChen",
+    "avatar_url": "https://avatars.githubusercontent.com/u/3125695?v=4",
+    "html_url": "https://github.com/ZhouYuChen",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-rust",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "aagz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/46520039?v=4",
+    "html_url": "https://github.com/aagz",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "adastranaut",
+    "avatar_url": "https://avatars.githubusercontent.com/u/97322327?v=4",
+    "html_url": "https://github.com/adastranaut",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "alexjoedt",
+    "avatar_url": "https://avatars.githubusercontent.com/u/84435160?v=4",
+    "html_url": "https://github.com/alexjoedt",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-go",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "ammarbrohi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/13643006?v=4",
+    "html_url": "https://github.com/ammarbrohi",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "bartek671",
+    "avatar_url": "https://avatars.githubusercontent.com/u/62876443?v=4",
+    "html_url": "https://github.com/bartek671",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-typescript",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "bbarwik",
+    "avatar_url": "https://avatars.githubusercontent.com/u/28823550?v=4",
+    "html_url": "https://github.com/bbarwik",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/zkmerkle-proof-of-solvency",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "beiciye",
+    "avatar_url": "https://avatars.githubusercontent.com/u/16171758?v=4",
+    "html_url": "https://github.com/beiciye",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "bmedygral",
+    "avatar_url": "https://avatars.githubusercontent.com/u/28438179?v=4",
+    "html_url": "https://github.com/bmedygral",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "charlesdarkwind",
+    "avatar_url": "https://avatars.githubusercontent.com/u/23563500?v=4",
+    "html_url": "https://github.com/charlesdarkwind",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "cqcn1991",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2425141?v=4",
+    "html_url": "https://github.com/cqcn1991",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "crmoratelli",
+    "avatar_url": "https://avatars.githubusercontent.com/u/5561600?v=4",
+    "html_url": "https://github.com/crmoratelli",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "flow-ci-bot",
+    "avatar_url": "https://avatars.githubusercontent.com/u/85475575?v=4",
+    "html_url": "https://github.com/flow-ci-bot",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-js",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "geweiw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/150983928?v=4",
+    "html_url": "https://github.com/geweiw",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-go",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "iSCJT",
+    "avatar_url": "https://avatars.githubusercontent.com/u/80723794?v=4",
+    "html_url": "https://github.com/iSCJT",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-websocket-examples",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "jafuentest",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1434687?v=4",
+    "html_url": "https://github.com/jafuentest",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-ruby",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "jeet427",
+    "avatar_url": "https://avatars.githubusercontent.com/u/12030116?v=4",
+    "html_url": "https://github.com/jeet427",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-java",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "jorisw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/30017?v=4",
+    "html_url": "https://github.com/jorisw",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-websocket-examples",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "josbert-m",
+    "avatar_url": "https://avatars.githubusercontent.com/u/52057859?v=4",
+    "html_url": "https://github.com/josbert-m",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-typescript",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "justalike",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44633493?v=4",
+    "html_url": "https://github.com/justalike",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "kam193",
+    "avatar_url": "https://avatars.githubusercontent.com/u/8472271?v=4",
+    "html_url": "https://github.com/kam193",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "kshalot",
+    "avatar_url": "https://avatars.githubusercontent.com/u/43988137?v=4",
+    "html_url": "https://github.com/kshalot",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "lanyi1998",
+    "avatar_url": "https://avatars.githubusercontent.com/u/31091395?v=4",
+    "html_url": "https://github.com/lanyi1998",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-go",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "limiu82214",
+    "avatar_url": "https://avatars.githubusercontent.com/u/8749914?v=4",
+    "html_url": "https://github.com/limiu82214",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-go",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "linuradu",
+    "avatar_url": "https://avatars.githubusercontent.com/u/8996916?v=4",
+    "html_url": "https://github.com/linuradu",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-futures-connector-java",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "maks1m",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4282621?v=4",
+    "html_url": "https://github.com/maks1m",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "maxwelljoslyn",
+    "avatar_url": "https://avatars.githubusercontent.com/u/11641081?v=4",
+    "html_url": "https://github.com/maxwelljoslyn",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "nullbutt",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39590478?v=4",
+    "html_url": "https://github.com/nullbutt",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "pepitoenpeligro",
+    "avatar_url": "https://avatars.githubusercontent.com/u/14912971?v=4",
+    "html_url": "https://github.com/pepitoenpeligro",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-rust",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "pgrimaud",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1866496?v=4",
+    "html_url": "https://github.com/pgrimaud",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-spot-api-docs",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "qiyu1030",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54596650?v=4",
+    "html_url": "https://github.com/qiyu1030",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-api-postman",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "querielo",
+    "avatar_url": "https://avatars.githubusercontent.com/u/104348270?v=4",
+    "html_url": "https://github.com/querielo",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "r-matsuzaka",
+    "avatar_url": "https://avatars.githubusercontent.com/u/76238346?v=4",
+    "html_url": "https://github.com/r-matsuzaka",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "rokups",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19151258?v=4",
+    "html_url": "https://github.com/rokups",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "shankar-jayaraj",
+    "avatar_url": "https://avatars.githubusercontent.com/u/68054192?v=4",
+    "html_url": "https://github.com/shankar-jayaraj",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "shenzhuangzhi1",
+    "avatar_url": "https://avatars.githubusercontent.com/u/36810265?v=4",
+    "html_url": "https://github.com/shenzhuangzhi1",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-java",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "trkzmn",
+    "avatar_url": "https://avatars.githubusercontent.com/u/46200293?v=4",
+    "html_url": "https://github.com/trkzmn",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-python",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "vnhlvn",
+    "avatar_url": "https://avatars.githubusercontent.com/u/48687649?v=4",
+    "html_url": "https://github.com/vnhlvn",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-js",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "william-dandrea",
+    "avatar_url": "https://avatars.githubusercontent.com/u/71140800?v=4",
+    "html_url": "https://github.com/william-dandrea",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-public-data",
+        "contributions": 1
+      }
+    ]
+  },
+  {
+    "login": "yassinrais",
+    "avatar_url": "https://avatars.githubusercontent.com/u/25354731?v=4",
+    "html_url": "https://github.com/yassinrais",
+    "type": "User",
+    "total_contributions": 1,
+    "repos": [
+      {
+        "repo": "binance/binance-connector-typescript",
+        "contributions": 1
+      }
+    ]
+  }
+]
