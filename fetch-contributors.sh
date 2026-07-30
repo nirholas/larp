@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 # Fetch contributors from every repo of a GitHub account.
-# Usage: ./scripts/fetch-contributors.sh <owner> [--output <file>] [--format json|csv|table]
+# Usage: ./fetch-contributors.sh <owner> [--output <file>] [--format json|csv|table]
 #
-# Requires: gh (GitHub CLI), jq
+# Requires: gh (GitHub CLI, authenticated via `gh auth login`), jq
 # Examples:
-#   ./scripts/fetch-contributors.sh nirholas
-#   ./scripts/fetch-contributors.sh nirholas --format csv --output contributors.csv
-#   ./scripts/fetch-contributors.sh bnb-chain --format json --output contributors.json
+#   ./fetch-contributors.sh nirholas
+#   ./fetch-contributors.sh nirholas --format csv --output contributors.csv
+#   ./fetch-contributors.sh bnb-chain --format json --output contributors.json
 
 set -euo pipefail
 
@@ -36,22 +36,41 @@ EOF
 
 # ── parse args ────────────────────────────────────────────────────────────────
 INCLUDE_FORKS=false
+OWNER=""
 
 if [[ $# -lt 1 ]]; then
   usage
 fi
 
-OWNER="$1"; shift
-
+# The owner is positional but may appear anywhere, so flags are read first. Reading
+# it before the loop made `-h` / `--help` unreachable: it was consumed as the owner
+# and the script went straight to the API with an owner literally named "--help".
 while [[ $# -gt 0 ]]; do
   case "$1" in
-    --format)       FORMAT="$2"; shift 2 ;;
-    --output)       OUTPUT="$2"; shift 2 ;;
+    --format)        FORMAT="$2"; shift 2 ;;
+    --output)        OUTPUT="$2"; shift 2 ;;
     --include-forks) INCLUDE_FORKS=true; shift ;;
-    -h|--help)      usage ;;
-    *)              echo "Unknown option: $1"; usage ;;
+    -h|--help)       usage ;;
+    -*)              echo "Unknown option: $1" >&2; usage ;;
+    *)
+      if [[ -n "$OWNER" ]]; then
+        echo "Unexpected argument: $1 (owner is already set to '$OWNER')" >&2
+        usage
+      fi
+      OWNER="$1"; shift
+      ;;
   esac
 done
+
+if [[ -z "$OWNER" ]]; then
+  echo "Error: no owner given." >&2
+  usage
+fi
+
+case "$FORMAT" in
+  json|csv|table) ;;
+  *) echo "Error: unknown format '$FORMAT' (expected json, csv or table)." >&2; exit 1 ;;
+esac
 
 # ── validate deps ─────────────────────────────────────────────────────────────
 for cmd in gh jq; do
@@ -64,15 +83,15 @@ done
 # ── fetch repos ───────────────────────────────────────────────────────────────
 echo "Fetching repositories for '$OWNER'..." >&2
 
-FORK_FILTER=""
+FORK_FILTER="."
 if [[ "$INCLUDE_FORKS" == "false" ]]; then
-  FORK_FILTER="| map(select(.fork == false))"
+  FORK_FILTER="map(select(.fork == false))"
 fi
 
 REPOS=$(gh api --paginate "/users/$OWNER/repos?per_page=$PER_PAGE&type=all" \
-  --jq ".[]| .full_name" 2>/dev/null || \
+  --jq "$FORK_FILTER | .[] | .full_name" 2>/dev/null || \
   gh api --paginate "/orgs/$OWNER/repos?per_page=$PER_PAGE&type=all" \
-  --jq ".[] | .full_name")
+  --jq "$FORK_FILTER | .[] | .full_name")
 
 if [[ -z "$REPOS" ]]; then
   echo "No repositories found for '$OWNER'." >&2
