@@ -76,3 +76,10 @@ in `commit-push.sh`. It pushes on each iteration, so read it before running it.
 ## License
 
 All rights reserved. See [LICENSE](LICENSE).
+
+## Documentation
+
+Full documentation site: **https://nirholas.github.io/larp/**
+
+- [Getting started](docs/getting-started.md) covers install and first run.
+- [Examples](docs/examples.md) has copy-paste snippets.
