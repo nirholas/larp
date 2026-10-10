@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "larp"
+abstract: "Bash utilities that aggregate GitHub repo contributors across an account and write git commits under a chosen identity's noreply email."
+repository-code: "https://github.com/nirholas/larp"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
